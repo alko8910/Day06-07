@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+h2{
+  color: lightblue;
+}
+
+.glavni-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.sporedni-div {
+  float: left;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  padding-right: 30px;
+}
+
+
+p {
+  margin-right: 50px;
+}
